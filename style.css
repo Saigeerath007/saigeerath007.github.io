@@ -15,7 +15,9 @@ body,#social{
     text-decoration-style: solid;
 
 }
-
+#Nocolour{
+    background-color : None ;    
+}
 
 
 #navbar{
